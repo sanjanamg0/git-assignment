@@ -1,2 +1,3 @@
 Sanjana M Gudikeri 
 Bangalore
+Skills: Python, SQL
